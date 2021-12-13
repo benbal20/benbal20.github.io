@@ -1,0 +1,21 @@
+img {
+	width:500px;
+	float:right; 
+}
+#Giraffe {
+    float:right;
+}
+a {
+	float:right;
+}
+body {
+	background-color: lightblue;
+}
+h2 {
+	font-size: 14px;
+	background-color: lightgreen;
+
+}
+p  {
+	background-color: lightgreen;
+}
