@@ -1,0 +1,78 @@
+body {
+	background-color: darkred;
+	font-size: 25px;
+	font-style: oblique;
+    font-variant-position: normal;
+    font-weight: bolder;
+    padding: 100px;
+    margin: 100px
+    border: 100px;
+}
+
+img {
+	background-image: black;
+	align-self: center;
+	size: 40px;
+	border: 3px solid #ddd;
+    border-radius: 8px;
+    padding:5px;
+    width: 250px;
+}
+
+background-image {
+     background-image: url(img_flwr.gif), url(paper.gif);
+     background-position: right bottom, left top;
+     background-repeat: no-repeat, repeat;
+     padding: 15px;
+}
+
+video {
+	position: right;
+}
+
+
+h1 {
+  background-color: black;
+  color: dodgerblack;
+}
+
+h2 {
+	color : white;
+	padding: 40px;
+}
+
+p {
+	color: lightyellow;
+}
+
+li {
+	color: deepskyblue;
+}
+
+h1 {
+  margin: auto;
+  width: 50%;
+  border: 3px solid blue;
+  padding: 10px;
+  background-color: darkturquoise;
+}
+
+h2 {
+  margin: auto;
+  width: 50%;
+  border: 3px solid yellow;
+  padding: 10px;
+  background-color: darkblue;
+}
+
+a {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: mintcream;
+}
+
+
+
+
