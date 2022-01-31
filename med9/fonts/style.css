@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,500&family=Noto+Serif+JP:wght@900&family=Open+Sans:ital,wght@1,300&family=Yellowtail&display=swap');
+
+h1 {
+
+
+	background: #6050cb;
+	padding: 50px;
+	font-size: 60px;
+	text-align: center;
+	font-family: "IBM Plex Serif";
+}
+h2 {
+	padding: 30px;
+	background:background: rgb(193,80,203);
+    background: linear-gradient(282deg, rgba(193,80,203,1) 8%, rgba(91,134,19,1) 9%, rgba(155,145,152,1) 13%, rgba(85,117,174,1) 15%, rgba(129,252,97,1) 18%, rgba(115,201,126,1) 22%, rgba(111,188,133,1) 23%, rgba(29,33,253,1) 26%, rgba(169,102,93,1) 28%, rgba(86,98,183,1) 30%, rgba(185,174,85,1) 34%, rgba(192,164,83,1) 36%, rgba(199,154,81,1) 38%, rgba(168,198,89,1) 39%, rgba(213,135,78,1) 42%, rgba(213,135,78,1) 42%, rgba(80,200,203,1) 44%, rgba(241,96,71,1) 49%, rgba(80,200,203,1) 50%, rgba(252,81,69,1) 53%, rgba(80,200,203,1) 53%, rgba(240,90,79,1) 54%, rgba(178,132,127,1) 59%, rgba(200,53,65,1) 62%, rgba(131,58,180,1) 67%, rgba(252,81,69,1) 76%, rgba(80,200,203,1) 77%);;
+	font-size: 40px;
+	text-align: right;
+	font-family: "Yellowtail";
+
+}
+
+p {
+   padding: 30px;
+   font-size: 25px;
+   text-align: justify;
+   column-count: 3;
+   line-height: 1.7;
+   font-family: "Open Sans";
+
+
+}
+.name {
+	font-family: "SpacE Mono"; 
+	font-size:50px;
+	column-count: 1;
+	padding: 50px;
+	background-color: red;
+	color: blue;
+	border-radius: 20px;
+	transform: rotate(10deg);
+
+}
+body {
+	background: rgb(80,200,203);
+background: linear-gradient(282deg, rgba(80,200,203,1) 0%, rgba(29,33,253,1) 0%, rgba(169,102,93,1) 0%, rgba(85,117,174,1) 0%, rgba(155,145,152,1) 0%, rgba(91,134,19,1) 0%, rgba(86,98,183,1) 0%, rgba(115,201,126,1) 0%, rgba(213,135,78,1) 0%, rgba(213,135,78,1) 0%, rgba(185,174,85,1) 0%, rgba(80,200,203,1) 0%, rgba(168,198,89,1) 2%, rgba(252,81,69,1) 4%, rgba(199,154,81,1) 9%, rgba(81,228,172,1) 28%, rgba(182,98,217,1) 42%, rgba(71,100,241,1) 64%, rgba(225,91,109,1) 70%, rgba(231,78,114,1) 77%, rgba(231,78,114,1) 77%, rgba(192,164,83,1) 95%, rgba(131,58,180,1) 96%, rgba(80,200,203,1) 98%, rgba(126,239,104,1) 100%, rgba(200,53,65,1) 100%, rgba(252,81,69,1) 100%, rgba(240,90,79,1) 100%, rgba(178,132,127,1) 100%, rgba(80,200,203,1) 100%, rgba(96,80,203,1) 100%);
+}

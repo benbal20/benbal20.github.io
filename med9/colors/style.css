@@ -1,0 +1,52 @@
+p {
+	padding: 50px;
+	margin: 20px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+h1 {
+	color: transparent;
+}
+
+.First {
+	background-color: rgb(50,129,168);
+}
+
+.Second {
+	background-color: #a83260;
+}
+
+.Third {
+	background-color: rgb(168, 168, 50);
+}
+
+.Forth {
+	background-color: #a86232;
+}
+
+.Fifth {
+	background-color: rgb(168, 50, 50);
+}
+
+.Sixth {
+	background-color: #a832a4;
+}
+
+.Seventh {
+	background-color: rgb(52, 50, 168);
+}
+
+.Eighth {
+	background-color: #a4a832;
+}
+
+.Nineth {
+	background-color: rgb(56, 168, 50);
+}
+
+.Tenth {
+	background-color: #32a899;
+}
+
