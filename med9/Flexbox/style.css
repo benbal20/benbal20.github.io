@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,500&family=Noto+Serif+JP:wght@900&family=Open+Sans:ital,wght@1,300&family=Source+Code+Pro:ital,wght@1,300&family=Yellowtail&display=swap');
+.first-try{
+	height: 400px;
+	background: rgb(80,200,203);
+    background: linear-gradient(282deg, rgba(80,200,203,1) 0%, rgba(29,97,253,0) 0%, rgba(169,102,93,1) 0%, rgba(85,117,174,1) 0%, rgba(155,145,152,1) 0%, rgba(91,134,19,1) 0%, rgba(86,98,183,1) 0%, rgba(115,201,126,1) 0%, rgba(213,135,78,1) 0%, rgba(213,135,78,1) 0%, rgba(185,174,85,1) 0%, rgba(80,200,203,1) 0%, rgba(168,198,89,1) 2%, rgba(252,81,69,1) 4%, rgba(199,154,81,1) 9%, rgba(81,228,172,1) 25%, rgba(95,209,178,1) 30%, rgba(182,98,217,1) 40%, rgba(71,100,241,1) 66%, rgba(110,98,208,1) 67%, rgba(225,91,109,1) 70%, rgba(231,78,114,1) 77%, rgba(231,78,114,1) 77%, rgba(192,164,83,1) 95%, rgba(131,58,180,1) 96%, rgba(80,200,203,1) 98%, rgba(126,239,104,1) 100%, rgba(200,53,65,1) 100%, rgba(252,81,69,1) 100%, rgba(240,90,79,1) 100%, rgba(178,132,127,1) 100%, rgba(80,200,203,1) 100%, rgba(96,80,203,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+	background-color: purple;
+	color: white;
+	font-family: "Source Code Pro";
+}
+.second-try {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	height: 480px;
+	background-color: lime;
+
+}
+
+p {
+   background-color: blue;
+   color: white;
+}
+
+.third-try {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: flex-end;
+	height: 400px;
+	background-color: orange;
+
+}
+
+.fourth-try {
+	background-color: lightblue;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+  background-image: linear-gradient(to right, lightblue, blue);
+}
+
+}
+
+
+
+img {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: center;
+
+    
+}
+
