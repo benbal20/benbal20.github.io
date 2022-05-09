@@ -1,0 +1,10 @@
+}
+nav{
+	background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,205,45,1) 100%);
+	padding: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
