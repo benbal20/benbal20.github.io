@@ -1,0 +1,42 @@
+
+/*
+*
+* Title: Eine Webseite über Geschäfte;
+* Author: Benard Bala;
+* Date: 09.05.2022;
+*
+*/
+
+
+/**************General Styling****************/
+
+body{
+
+	background: rgb(77,126,194);
+background: linear-gradient(219deg, rgba(77,126,194,1) 0%, rgba(194,138,77,1) 5%, rgba(65,70,70,1) 67%);
+
+
+
+}
+
+footer {
+
+	background: rgb(77,126,194);
+background: linear-gradient(219deg, rgba(77,126,194,1) 0%, rgba(194,138,77,1) 5%, rgba(65,70,70,1) 67%);
+
+
+
+}
+
+
+
+
+
+
+}
+/*Navigation */
+
+ul {
+background: rgb(140,155,176);
+background: linear-gradient(219deg, rgba(140,155,176,1) 0%, rgba(59,39,17,1) 5%, rgba(9,103,103,1) 67%);
+}

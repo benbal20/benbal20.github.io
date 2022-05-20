@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&family=Signika+Negative:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&family=Zilla+Slab:wght@300&display=swap');
+h2 {
+	font-family: "Zilla Slab";
+}
+
+li a {
+	font-family: "Signika Negative";
+}
+ul img  {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+
+}
+body {
+ background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(197,205,200,1) 26%, rgba(204,182,213,1) 50%, rgba(148,233,208,1) 100%);;
+}
+ul  {
+	background: rgb(140,155,176);
+background: linear-gradient(219deg, rgba(140,155,176,1) 0%, rgba(59,39,17,1) 5%, rgba(9,103,103,1) 67%);
+}
+/*
+*
+* Title: Eine Webseite über Geschäfte;
+* Author: Benard Bala;
+* Date: 09.05.2022;
+*
+*/
+
+
+/**************General Styling****************/
+
+body{
+	margin: 0;
+
+}
+/*Navigation */
+
+li a {
+
+
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+ 
+
+}
+nav{
+	background-color: whitesmoke;
+	padding: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav img{
+	height:80px;
+	border-radius: 50%;
+}
+
+nav ul {
+	display: flex;
+	justify-content:flex-end;
+	align-items: center;
+	list-style-type: none;
+}
+
+* Header */
+header {
+	height:400px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background-size: cover;
+	background-position: center;
+	 background-color: yellow;
+
+	
+}
+header h1 {
+	padding: 30px;
+    background-color: rgba(5,655,275,0.5);
+    font-size: 40px;
+    border-radius: 20px;
+    color: steelblue;
+}
+
+/* Main */
+main {
+	padding: 80px;
+}
+
+/* Footer */
+footer {
+	display: flex;
+	justify-content:space-evenly;
+	align-items: center;
+	height: 300px;
+	background: rgb(253,226,45);
+background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(253,226,45,1) 20%, rgba(3,1,172,1) 97%);
+
+}
+footer p {
+	margin: 10px;
+	padding: 20px;
+	background: rgb(253,226,45);
+    background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(253,226,45,1) 20%, rgba(34,195,172,1) 97%);
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+
+/***************************************** Styling Page ******************************************/
+/*Home Page*/
+#home header {
+	background-image: url("bg.jpg");
+}
+
+
+#home main {
+	background: rgb(189,195,34);
+background: linear-gradient(0deg, rgba(189,195,34,1) 0%, rgba(253,226,45,1) 0%, rgba(240,224,54,1) 51%, rgba(34,195,191,1) 51%);
+}
+
+#home main h2 {
+	background: rgb(63,251,205);
+background: radial-gradient(circle, rgba(63,251,205,1) 0%, rgba(144,164,171,1) 63%, rgba(248,252,70,1) 100%);
+}
+
+/* Deutschland Page */
+#about header {
+	background-image: url("bundo-kim.jpg");
+}
+
+#about {
+	background: rgb(253,226,45);
+   background :linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(34,195,123,1) 0%);
+
+}
+
+#about main h2 {
+	background-color: brown;
+}
+
+#home section {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+#home section .left {
+	width:30%;
+  background: rgb(253,226,45);
+background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(189,195,34,1) 23%, rgba(34,195,191,1) 40%, rgba(240,224,54,1) 73%);
+ }
+
+#home section .right {
+	width:70%;
+	background: rgb(253,226,45);
+background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(189,195,34,1) 23%, rgba(34,195,191,1) 40%, rgba(240,224,54,1) 73%);
+	  
+}
+
+/************************************** Europa **************************/
+
+#products section {
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+#products  section .left {
+	width:30%;
+  background: rgb(253,226,45);
+background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(189,195,34,1) 23%, rgba(34,195,191,1) 40%, rgba(240,224,54,1) 73%);
+ }
+
+#products  section .right {
+	width:70%;
+	background: rgb(253,226,45);
+background: linear-gradient(0deg, rgba(253,226,45,1) 0%, rgba(189,195,34,1) 23%, rgba(34,195,191,1) 40%, rgba(240,224,54,1) 73%);
+	  
+}
+
