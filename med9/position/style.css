@@ -1,0 +1,19 @@
+* {
+	margin: 5px;
+	padding: 60px;
+	border:1px solid blue;
+}
+
+p {
+	background: rgb(63,251,205);
+    background: radial-gradient(circle, rgba(63,251,205,1) 0%, rgba(144,164,171,1) 63%, rgba(248,252,70,1) 100%);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: -10px;
+}
+
+header {
+	background: rgb(174,238,185);
+    background: radial-gradient(circle, rgba(174,238,185,1) 29%, rgba(178,175,210,1) 51%, rgba(233,148,154,1) 100%);
+}
